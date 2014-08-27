@@ -17,10 +17,16 @@ replacing Total with Urban/Rural. There are two gotchas:
     `31.csv` to duplicate the existing 3 rows and change district code to 587
     in the added rows.
 
-That done, we're ready to put together the final CSV
+That done, we're ready to put together the final CSV containing data for
+the entire district (eliminating the Rural and Urban rows)
 
     cat header.csv >hlpca-total.csv
     awk -F, '$3 != "000" && $10 == "Total"' ??.csv |  uniq >>hlpca-total.csv
     wc hlpca-total.csv
 
 Finally, we have a CSV with 641 rows (640 districts + 1 header row)
+
+To create a CSV containing all rows (Total/Rural/Urban),
+
+    cat header.csv >hlpca-full.csv
+    awk -F, '$3 != "000"' ??.csv |  uniq >>hlpca-full.csv
