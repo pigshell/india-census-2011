@@ -1,0 +1,145 @@
+State Code,State Code
+State Name,State Name
+District Code,District Code
+District Name,District Name
+Tehsil Code,Tehsil Code
+Tehsil Name,Tehsil Name
+Town Code,Town Code/Village code
+Ward No,Ward No
+Area Name,Area Name
+Rural/Urban,Rural/Urban
+c11,Number of households with condition of Census House as: Total (Total)
+c12,Number of households with condition of Census House as: Total (Good)
+c13,Number of households with condition of Census House as: Total (Livable)
+c14,Number of households with condition of Census House as: Total (Dilapidated)
+c15,Number of households with condition of Census House as: Residence (Total)
+c16,Number of households with condition of Census House as: Residence (Good)
+c17,Number of households with condition of Census House as: Residence (Livable)
+c18,Number of households with condition of Census House as: Residence (Dilapidated)
+c19,Number of households with condition of Census House as: Residence-cum-other use (Total)
+c20,Number of households with condition of Census House as: Residence-cum-other use (Good)
+c21,Number of households with condition of Census House as: Residence-cum-other use (Livable)
+c22,Number of households with condition of Census House as: Residence-cum-other use (Dilapidated)
+c23,Material of Roof: Grass/Thatch/Bamboo/Wood/Mud etc.
+c24,Material of Roof: Plastic/Polythene
+c25,Material of Roof: Hand made Tiles
+c26,Material of Roof: Machine made Tiles
+c27,Material of Roof: Burnt Brick
+c28,Material of Roof: Stone/Slate
+c29,Material of Roof: G.I./Metal/Asbestos sheets
+c30,Material of Roof: Concrete
+c31,Material of Roof: Any other material
+c32,Material of Wall: Grass/Thatch/Bamboo etc.
+c33,Material of Wall: Plastic/Polythene
+c34,Material of Wall: Mud/Unburnt brick
+c35,Material of Wall: Wood
+c36,Material of Wall: Stone not packed with mortar
+c37,Material of Wall: Stone packed with mortar
+c38,Material of Wall: G.I./Metal/Asbestos sheets
+c39,Material of Wall: Burnt brick
+c40,Material of Wall: Concrete
+c41,Material of Wall: Any other material
+c42,Material of Floor: Mud
+c43,Material of Floor: Wood/Bamboo
+c44,Material of Floor: Burnt Brick
+c45,Material of Floor: Stone
+c46,Material of Floor: Cement
+c47,Material of Floor: Mosaic/Floor tiles
+c48,Material of Floor: Any other material
+c49,Number of Dwelling Rooms: No exclusive room
+c50,Number of Dwelling Rooms: One room
+c51,Number of Dwelling Rooms: Two rooms
+c52,Number of Dwelling Rooms: Three rooms
+c53,Number of Dwelling Rooms: Four rooms
+c54,Number of Dwelling Rooms: Five rooms
+c55,Number of Dwelling Rooms: Six rooms and above
+c56,Household size: 1
+c57,Household size: 2
+c58,Household size: 3
+c59,Household size: 4
+c60,Household size: 5
+c61,Household size: 6-8
+c62,Household size: 9+
+c63,Ownership status: Owned
+c64,Ownership status: Rented
+c65,Ownership status: Any others
+c66,Married couple: None
+c67,Married couple: 1
+c68,Married couple: 2
+c69,Married couple: 3
+c70,Married couple: 4
+c71,Married couple: 5+
+c72,Main Source of Drinking Water: Tapwater from treated source
+c73,Main Source of Drinking Water: Tapwater from un-treated source
+c74,Main Source of Drinking Water: Covered well
+c75,Main Source of Drinking Water: Un-covered well
+c76,Main Source of Drinking Water: Handpump
+c77,Main Source of Drinking Water: Tubewell/Borehole
+c78,Main Source of Drinking Water: Spring
+c79,Main Source of Drinking Water: River/Canal
+c80,Main Source of Drinking Water: Tank/Pond/Lake
+c81,Main Source of Drinking Water: Other sources
+c82,Location of drinking water source: Within premises
+c83,Location of drinking water source: Near premises
+c84,Location of drinking water source: Away
+c85,Main Source of lighting: Electricity
+c86,Main Source of lighting: Kerosene
+c87,Main Source of lighting: Solar energy
+c88,Main Source of lighting: Other oil
+c89,Main Source of lighting: Any other
+c90,Main Source of lighting: No lighting
+c91,Number of households having latrine facility within the premises
+c92,Flush/pour flush latrine connected to: Piped sewer system
+c93,Flush/pour flush latrine connected to: Septic tank
+c94,Flush/pour flush latrine connected to: Other system
+c95,Pit latrine: With slab/ventilated improved pit
+c96,Pit latrine: Without slab/ open pit
+c97,Night soil disposed into open drain
+c98,Service Latrine: Night soil removed by human
+c99,Service Latrine: Night soil serviced by animal
+c100,Number of households not having latrine facility within the premises
+c101,Alternative source: Public latrine
+c102,Alternative source: Open
+c103,Number of households having bathing facility within the premises: Yes (Bathroom)
+c104,Number of households having bathing facility within the premises: Yes (Enclosure without roof)
+c105,Number of households having bathing facility within the premises: No
+c106,Waste water outlet connected to: Closed drainage
+c107,Waste water outlet connected to: Open drainage
+c108,Waste water outlet connected to: No drainage
+c109,Type of Fuel used for Cooking: Fire-wood
+c110,Type of Fuel used for Cooking: Crop residue
+c111,Type of Fuel used for Cooking: Cowdung cake
+c112,Type of Fuel used for Cooking: Coal,Lignite,Charcoal
+c113,Type of Fuel used for Cooking: Kerosene
+c114,Type of Fuel used for Cooking: LPG/PNG
+c115,Type of Fuel used for Cooking: Electricity
+c116,Type of Fuel used for Cooking: Biogas
+c117,Type of Fuel used for Cooking: Any other
+c118,Type of Fuel used for Cooking: No cooking
+c119,Kitchen facility: Total
+c120,Kitchen facility: Cooking inside house:
+c121,Kitchen facility: Has Kitchen
+c122,Kitchen facility: Does not have kitchen
+c123,Kitchen facility: Cooking outside house:
+c124,Kitchen facility: Has Kitchen
+c125,Kitchen facility: Does not have kitchen
+c126,Kitchen facility: No Cooking
+c127,Total number of households availing banking services
+c128,Availability of assets: Radio/Transistor
+c129,Availability of assets: Television
+c130,Availability of assets: Computer/Laptop (With Internet)
+c131,Availability of assets: Computer/Laptop (Without Internet)
+c132,Availability of assets: Telephone/Mobile Phone (Landline only)
+c133,Availability of assets: Telephone/Mobile Phone (Mobile only)
+c134,Availability of assets: Telephone/Mobile Phone (Both)
+c135,Availability of assets: Bicycle
+c136,Availability of assets: Scooter/Motorcycle/Moped
+c137,Availability of assets: Car/Jeep/Van
+c138,Availability of assets: Households with TV, Computer/Laptop, Telephone/mobile phone and Scooter/Car
+c139,Availability of assets: None of the assets specified in col. 10 to 19
+c140,Households by Type of Structure of Census Houses: Permanent
+c141,Households by Type of Structure of Census Houses: Semi-Permanent
+c142,Households by Type of Structure of Census Houses: Total Temporary
+c143,Households by Type of Structure of Census Houses: Serviceable
+c144,Households by Type of Structure of Census Houses: Non-Serviceable
+c145,Households by Type of Structure of Census Houses: Unclassifiable
